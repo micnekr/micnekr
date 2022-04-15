@@ -1,0 +1,59 @@
+#+TITLE: Micnekr's github profile
+#+AUTHOR: Micnekr
+#+OPTIONS: toc:nil
+* Hi there 👋
+# Here are some ideas to get you started:
+
+# - 🔭 I’m currently working on ...
+# - 🌱 I’m currently learning ...
+# - 👯 I’m looking to collaborate on ...
+# - 🤔 I’m looking for help with ...
+# - 💬 Ask me about ...
+# - 📫 How to reach me: ...
+# - 😄 Pronouns: ...
+# - ⚡ Fun fact: ...
+
+** My Github Stats
+#+BEGIN_EXPORT md
+[![My github stats](https://github-readme-stats.vercel.app/api?username=micnekr)](https://github.com/anuraghazra/github-readme-stats)
+#+END_EXPORT
+
+** A guide to my projects (sorted roughly from youngest to oldest):
+- [[https://github.com/micnekr/filephile][Filephile]] - a customisable command-line file manager written in rust
+- [[https://github.com/micnekr/cryptography_whiteboard][Cryptography whiteboard]] - a work-in-progress library for prototyping of cryptographic algorithms
+- [[https://github.com/apollo-1845/Team-2][2021-2022 astropi code]] - the code we sent to the ISS during the 2021-2022 astropi competition
+- 2021 FTC code - code for the 2021 FTC competition (the repository was left private)
+- [[https://github.com/BC-Unity-Project-2022/Unity-Catastrophe-Island-Game-2022][Unity group project]] - a game we completed in a group of 4 people
+- [[https://github.com/micnekr/mass_game][Mass game]] - a proof-of-concept unity game
+- [[https://github.com/micnekr/social-app/][Social app]] - another example of a next.js application I have made
+- [[https://github.com/micnekr/minecraft-aternos-bot][Minecraft-aternos-bot]] - a small discord bot for managing aternos servers
+- [[https://github.com/micnekr/minecraft-server-status-improved][Minecraft-server-status-improved]] - an improvement over a small node.js library for getting a minecraft server status
+- [[https://github.com/micnekr/2020-2021-coursework][GCSE coursework]] - a simple card game written in Java that uses [[https://github.com/micnekr/db][db]], my other project, to store logins
+- [[https://github.com/micnekr/db][Db]] - a proof-of-concept database
+- [[https://github.com/brightonfrc/2020FRCCode-new][2020 FRC code]] - our code for the 2020 [[https://www.firstinspires.org/robotics/frc][FRC]] competition
+- [[https://github.com/CyberVolunteers/Server-v1][Cybervolutneers v1]] - the first version of the code for the server for the [[https://cybervolunteers.org.uk/][CyberVolunteers]] project I wrote all of the backend and some of the front-end for. I also worked on the second version and played a similar role.
+- Project Euler - my solutions to [[https://projecteuler.net/about][Project Euler]] problems. This is a private project because of the rules on sharing solutions to these problems.
+- [[https://github.com/micnekr/chat][Chat]] - a basic chat app
+- [[https://github.com/micnekr/evolution][Evolution]] - an unfinished group project on a genetic simulation
+- [[https://github.com/micnekr/Processing-projects][Processing sketches]] - a collection of projects I was coding along [[https://www.youtube.com/c/TheCodingTrain][these videos]] to learn processing, a java framework
+- [[https://github.com/micnekr/p5js][p5.js sketches]] - a collection of projects I was coding along [[https://www.youtube.com/c/TheCodingTrain][these videos]] to learn javascript
+
+*** More information about my other activities and skills
+**** [[https://www.olympiad.org.uk/][British Informatics Olympiad paper]]
+I have scored more than 50% in the British Informatics Olympiad twice (with the maximum of 60%) and I got the best score in the school one time.
+**** Outreach
+I have been working with a team of Brighton College's Digital Ambassadors to teach children outside of Brighton College programming.
+I have also volunteered to help a person from a younger year of Brighton College with learning how to code in python.
+**** [[https://www.firstinspires.org/][FIRST Robotics]]
+***** 2020 - FRC
+During Brighton College's first ever FIRST competition, me and a team of other engineers and programmers focused on building a robot that would go onto competing in Turkey.
+I was in the programming and electronics teams and had to use online resources to learn how to use the framework, understand how the hardware works and how to set up the cable connections and software.
+***** 2021 - FRC
+Since I was one of the few people who has had experience in the competition and did not have external exams in this year, I volunteered to teach the people who wanted to join the programming and electronics teams. Unfortunately, we could not start building the robot due to the COVID-19 outbreak.
+***** 2022 - FTC
+Because of the risks and uncertainties associated with international flights during COVID, we decided to participate in FTC (a domestic competition) instead. I took part in designing and conducting the interviewing process and after that, I was working on communication between the two engineering and the programming team while helping them in solving their problems. This has taught me communication and management skills.
+**** [[https://projecteuler.net/about][Project Euler]]
+Since the last time this page has been updated, I have solved 88 problems. These problems have encouraged me to look more into optimising computation using dynamic programming and other techniques, requiring a combination of problem solving skills, a knowledge of mathematics and using programming as a tool of thought.
+[[file:project_euler_grid.png]]
+**** Microsoft Imagine Cup Junior
+Me and three other Brighton College students took part in the Microsoft Imagine Cup Junior competition writing a proposal of how Artificial Intelligence can be used to detect unexpected patterns in emotions and mood swings in order to detect if a person might need to visit a mental health professional since those symptoms can be linked to a mental illness. We outlined an architecture of the neural network to process both the audio and the content of speech.
