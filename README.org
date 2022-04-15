@@ -12,6 +12,39 @@
 # - 📫 How to reach me: ...
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
+** Who am I?
+I am a student at Brighton College who is interested in learning Rust for systems programming and has quite a bit of experience of using javascript and React for full-stack development of web applications. I have also used Java and Python for various projects, such as for data processing and robotics (see below).
+
+I am taking A-levels in mathematics, further mathematics, chemistry, physics and computer science and doing quite a bit of reading on computer science concepts in my spare time. I am planning on writing an EPQ on sharing memory safely across threads.
+
+I enjoy exploring concepts and nuances of programming that can be used to make programs safer or more performant, such as possible compiler optimisations and what exactly goes wrong when they give us an unexpected result.
+** Contact me
+You can find my profile on [[https://www.linkedin.com/in/mikhail-nekrasov-398801237][LinkedIn]].
+
+** My knowledge of programming languages (roughly in my order of confidence with them)
+- Javascript (with jsx)
+- Rust
+- Python
+- Typescript
+- C++
+- Java
+- C#
+- SQL
+
+** The frameworks and libraries I have experience with
+- Node.js
+- Next.js (including React)
+- Express.js
+- Processing
+- P5.js
+
+** The tools I know how to use
+- Vim and Emacs
+- Linux
+- Unity
+- Gimp
+- Blender
+- Git
 
 ** My Github Stats
 #+BEGIN_EXPORT md
