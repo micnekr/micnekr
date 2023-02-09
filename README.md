@@ -64,13 +64,10 @@ You can find my profile on [LinkedIn](https://www.linkedin.com/in/mikhail-nekras
 -   [Social app](https://github.com/micnekr/social-app/) - another example of a next.js application I have made
 -   [Minecraft-aternos-bot](https://github.com/micnekr/minecraft-aternos-bot) - a small discord bot for managing aternos servers
 -   [Minecraft-server-status-improved](https://github.com/micnekr/minecraft-server-status-improved) - an improvement over a small node.js library for getting a minecraft server status
--   [GCSE coursework](https://github.com/micnekr/2020-2021-coursework) - a simple card game written in Java that uses [db](https://github.com/micnekr/db), my other project, to store logins
 -   [Db](https://github.com/micnekr/db) - a proof-of-concept database
 -   [2020 FRC code](https://github.com/brightonfrc/2020FRCCode-new) - our code for the 2020 [FRC](https://www.firstinspires.org/robotics/frc) competition
 -   [Cybervolutneers v1](https://github.com/CyberVolunteers/Server-v1) - the first version of the code for the server for the [CyberVolunteers](https://cybervolunteers.org.uk/) project I wrote all of the backend and some of the front-end for. I also worked on the second version and played a similar role.
--   Project Euler - my solutions to [Project Euler](https://projecteuler.net/about) problems. This is a private project because of the rules on sharing solutions to these problems.
--   [Chat](https://github.com/micnekr/chat) - a basic chat app
--   [Evolution](https://github.com/micnekr/evolution) - an unfinished group project on a genetic simulation
+-   [Chat](https://github.com/micnekr/chat) - a basic chat app written in Node.js
 -   [Processing sketches](https://github.com/micnekr/Processing-projects) - a collection of projects I was coding along [these videos](https://www.youtube.com/c/TheCodingTrain) to learn processing, a java framework
 -   [p5.js sketches](https://github.com/micnekr/p5js) - a collection of projects I was coding along [these videos](https://www.youtube.com/c/TheCodingTrain) to learn javascript
 
