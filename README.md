@@ -5,53 +5,35 @@
 
 ## Who am I?
 
-I am a student at Brighton College who is interested in learning Rust for systems programming and has quite a bit of experience of using javascript and React for full-stack development of web applications. I have also used Java and Python for various projects, such as for data processing and robotics (see below).
+I am a student at the University of Oxford studying Mathematics and Computer Science. I enjoy learning new programming concepts and languages by using them in projects that I do in my spare time. Unfortunately, I don't get much free time to spend on projects since starting my studies at Oxford, although that does mean that I can spend most of my time studying what I enjoy, in a formal setting.
 
-I am taking A-levels in mathematics, further mathematics, chemistry, physics and computer science and doing quite a bit of reading on computer science concepts in my spare time. I am planning on writing an EPQ on sharing memory safely across threads.
-
-I enjoy exploring concepts and nuances of programming that can be used to make programs safer or more performant, such as possible compiler optimisations and what exactly goes wrong when they give us an unexpected result.
-
+I achieved A*s in Mathematics, Further Mathematics, Chemistry, Physics and Computer Science A-levels, as well as in an EPQ on sharing memory safely across threads.
 
 ## Contact me
 
 You can find my profile on [LinkedIn](https://www.linkedin.com/in/mikhail-nekrasov-398801237).
 
 
-## My knowledge of programming languages (roughly in my order of confidence with them)
+## My knowledge of programming languages and frameworks (roughly in my order of confidence with them)
 
--   Javascript (with jsx)
--   Rust
--   Python
--   Typescript
--   C++
 -   Java
+-   Javascript/CSS/HTML
+-   React
+-   Python
+-   Haskell
+-   Next.js
+-   C++
+-   Scala
+-   Rust
 -   C#
 -   SQL
 
+## The tools I have experience with
 
-## The frameworks and libraries I have experience with
-
--   Node.js
--   Next.js (including React)
--   Express.js
--   Processing
--   P5.js
-
-
-## The tools I know how to use
-
--   Vim and Emacs
+-   Vim
 -   Linux
--   Unity
--   Gimp
--   Blender
 -   Git
-
-
-## My Github Stats
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=micnekr)](https://github.com/anuraghazra/github-readme-stats)
-
+-   Unity
 
 ## A guide to my projects (sorted roughly from youngest to oldest):
 
